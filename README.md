@@ -1,6 +1,7 @@
 # Node.js Sunvoy Challenge
 
-## 🎥 [Watch the Loom Video](https://www.loom.com/share/d6a5c75ceabd42dab5228c4bd70e6122?sid=515914ef-39bb-4eb0-9739-b72490751352)
+## 🎥 Loom Video LINK https://www.loom.com/share/d6a5c75ceabd42dab5228c4bd70e6122?sid=515914ef-39bb-4eb0-9739-b72490751352
+
 
 ## Overview
 This Node.js script automates the process of logging into the `challenge.sunvoy.com` website, fetching user data, and saving it to a local JSON file (`user.json`). The script follows these steps:
