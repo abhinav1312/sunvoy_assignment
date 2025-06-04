@@ -2,7 +2,7 @@
 
 ## 🎥 Loom Video LINK https://www.loom.com/share/d6a5c75ceabd42dab5228c4bd70e6122?sid=515914ef-39bb-4eb0-9739-b72490751352
 
-## Total time spent: 3 hours
+## Total time spent: 3 hours 30 minutes
 
 
 ## Overview
