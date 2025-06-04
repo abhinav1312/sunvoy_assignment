@@ -192,8 +192,8 @@ async function saveDataToFile(authenticatedUserData: any, usersData: any): Promi
             userList: usersData
         };
 
-        fs.writeFileSync('user.json', JSON.stringify(combinedData, null, 2), 'utf-8');
-        console.log('Data saved to user.json');
+        fs.writeFileSync('users.json', JSON.stringify(combinedData, null, 2), 'utf-8');
+        console.log('Data saved to users.json');
         console.log('Process completed successfully.');
     } catch (err) {
         console.error('Failed to save data to file:', err);

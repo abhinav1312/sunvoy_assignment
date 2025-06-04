@@ -2,15 +2,17 @@
 
 ## 🎥 Loom Video LINK https://www.loom.com/share/d6a5c75ceabd42dab5228c4bd70e6122?sid=515914ef-39bb-4eb0-9739-b72490751352
 
+## Total time spent: 3 hours
+
 
 ## Overview
-This Node.js script automates the process of logging into the `challenge.sunvoy.com` website, fetching user data, and saving it to a local JSON file (`user.json`). The script follows these steps:
+This Node.js script automates the process of logging into the `challenge.sunvoy.com` website, fetching user data, and saving it to a local JSON file (`users.json`). The script follows these steps:
 
 1. **Fetch Nonce**: The script fetches the nonce required for login from the login page.
 2. **Login**: Uses the fetched nonce to log in to the site with the provided credentials.
 3. **Fetch Tokens**: After logging in, it retrieves the tokens required for making authenticated API requests.
 4. **Fetch User Data**: Fetches the list of users from `/api/users`.
-5. **Save Data**: Saves the authenticated user data and the list of users to a `user.json` file.
+5. **Save Data**: Saves the authenticated user data and the list of users to a `users.json` file.
 
 ## Prerequisites
 
